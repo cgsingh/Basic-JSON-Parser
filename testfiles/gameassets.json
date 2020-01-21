@@ -1,0 +1,6 @@
+{"room":
+     { "treasure":"true",
+       "room":{"treasure" : "false"},
+       "room":{"treasure" : "false"}
+     }
+}

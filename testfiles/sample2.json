@@ -1,0 +1,11 @@
+{
+     "College": "Seneca College",
+     "Course": "Software Development", 
+     "Semester": "Fall 2014"
+ }
+ {
+     "window": {
+         "title": "Sample Widget",
+         "name": "main_window"
+     }
+ }
